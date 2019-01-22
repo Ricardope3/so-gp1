@@ -2,9 +2,9 @@
 ## Objetivo:
 Compilar y correr xv6
 Herramientas:
-gcc -> compilador
-qemu -> maquina vitrual
-make -> automatizaciones
+* gcc -> compilador
+* qemu -> maquina vitrual
+* make -> automatizaciones
 
 ## Conceptos:
 Un programa esta compuesto de un código fuente.
