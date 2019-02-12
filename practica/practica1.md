@@ -27,6 +27,9 @@ make
 + Software comunicar con el kernel, SF->CPU->Kernel
 
 ## Que aprendí
+Aprendí a hacer una función en en un sistema oparitvo, aprendí que hace el hardware cuando se hace un shutdown y un reboot
+Aprendí que para que hagas un printf en algun archivo c tienes que hacer un #include del archivo en donde este.
+Esto hace que todo el código de ese archivo.
 
 ## URL del commit
 
