@@ -29,4 +29,7 @@ git
 ++ init
 
 # Que aprendí
++ Aprendí como modificar el init.c
++ Aprendí que es un bombaFork
++ Aprendí más sobre el 
 ## URL del commit
