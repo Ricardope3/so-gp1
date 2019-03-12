@@ -131,6 +131,7 @@ static int (*syscalls[])(void) = {
 [SYS_mkdir]   sys_mkdir,
 [SYS_close]   sys_close,
 [SYS_shutdown]   sys_shutdown,
+[SYS_reboot]   sys_reboot,
 [SYS_setpriority]   sys_setpriority,
 [SYS_getpriority]   sys_getpriority,
 };
