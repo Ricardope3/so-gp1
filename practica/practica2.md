@@ -31,5 +31,8 @@ git
 # Que aprendí
 + Aprendí como modificar el init.c
 + Aprendí que es un bombaFork
-+ Aprendí más sobre el 
++ Aprendí más sobre como se ejecutan los comandos
++ Aprendí como hacer un nuevo comando
 ## URL del commit
+https://github.com/Ricardope3/so-gp1/commit/7d310a9156aebdade3ea60f214d7e924326b0d09
+https://github.com/Ricardope3/so-gp1/commit/9a79c8afea10e6941ad3416a34584af607193880
