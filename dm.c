@@ -2,6 +2,7 @@
 #include "stat.h"
 #include "user.h"
 
+
 int main(int argc, char **argv){
 	int num = atoi(argv[1]);
 	int i = 0;
